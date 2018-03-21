@@ -1,2 +1,2 @@
 # containers
-Repository keeps some code used for containers training
+Repository keeps some code used for containers training.
